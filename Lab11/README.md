@@ -1,7 +1,7 @@
 # Lab 11: Units and CSS Variables
 
 **Course:** BCS352, HTML and CSS Introduction Lab (Invertis University, Bareilly)
-**Name:** Priyanshi Sharma | **Roll No:** BCS2025582
+**Name:** Kajal gangwar | **Roll No:** BCS2025539
 
 **Aim:** Use CSS units and store colours and spacing in variables.
 
