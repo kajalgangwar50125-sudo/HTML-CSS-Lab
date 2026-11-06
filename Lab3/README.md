@@ -1,7 +1,7 @@
 # Lab 3: Your First HTML Page
 
 **Course:** BCS352, HTML and CSS Introduction Lab (Invertis University, Bareilly)
-**Name:** Priyanshi Sharma | **Roll No:** BCS2025582
+**Name:** Kajal gangwar | **Roll No:** BCS2025547
 
 **Aim:** Write a first HTML page with a title, headings and a paragraph, and format some text.
 
