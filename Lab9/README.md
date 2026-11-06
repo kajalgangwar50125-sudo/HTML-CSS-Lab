@@ -1,7 +1,7 @@
 # Lab 9: Tables with Headers and Footers
 
 **Course:** BCS352, HTML and CSS Introduction Lab (Invertis University, Bareilly)
-**Name:** Priyanshi Sharma | **Roll No:** BCS2025582
+**Name:** Kajal gangwar | **Roll No:** BCS2025539
 
 **Aim:** Build a table with a caption, a header, rows and a footer, and add scope attributes.
 
