@@ -1,7 +1,7 @@
 # Lab 12: Box Model, Cards and Scrolling
 
 **Course:** BCS352, HTML and CSS Introduction Lab (Invertis University, Bareilly)
-**Name:** Priyanshi Sharma | **Roll No:** BCS2025582
+**Name:** Kajal gangwar | **Roll No:** BCS2025539
 
 **Aim:** Compare the box sizing types, style a card and make a box scroll.
 
