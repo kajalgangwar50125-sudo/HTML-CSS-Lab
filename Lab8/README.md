@@ -1,7 +1,7 @@
 # Lab 8: Sign-Up Forms and Choices
 
 **Course:** BCS352, HTML and CSS Introduction Lab (Invertis University, Bareilly)
-**Name:** Priyanshi Sharma | **Roll No:** BCS2025582
+**Name:** Kajal gangwar | **Roll No:** BCS2025547
 
 **Aim:** Make a labelled form with text, email and password fields, choices and a submit button.
 
