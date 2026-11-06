@@ -1,7 +1,7 @@
 # Lab 14: CSS Grid Layouts
 
 **Course:** BCS352, HTML and CSS Introduction Lab (Invertis University, Bareilly)
-**Name:** Priyanshi Sharma | **Roll No:** BCS2025582
+**Name:** kajal | **Roll No:** BCS2025547
 
 **Aim:** Make a grid with equal columns, a responsive gallery and a layout with named areas.
 
