@@ -1,7 +1,7 @@
 # Lab 13: Flexbox Layouts
 
 **Course:** BCS352, HTML and CSS Introduction Lab (Invertis University, Bareilly)
-**Name:** Priyanshi Sharma | **Roll No:** BCS2025582
+**Name:** Kajal gangwar| **Roll No:** BCS2025547
 
 **Aim:** Lay out a navigation bar, centred cards and cards that wrap, using Flexbox.
 
