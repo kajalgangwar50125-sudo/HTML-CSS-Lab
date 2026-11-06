@@ -1,7 +1,7 @@
 # Lab 7: About Me Page
 
 **Course:** BCS352, HTML and CSS Introduction Lab (Invertis University, Bareilly)
-**Name:** Priyanshi Sharma | **Roll No:** BCS2025582
+**Name:** kajal gangwar  | **Roll No:** BCS2025547
 
 **Aim:** Build a short About Me page with semantic tags, an about section and a contact link.
 
