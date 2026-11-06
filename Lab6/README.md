@@ -1,7 +1,7 @@
 # Lab 6: Types of HTML Lists
 
 **Course:** BCS352, HTML and CSS Introduction Lab (Invertis University, Bareilly)
-**Name:** Priyanshi Sharma | **Roll No:** BCS2025582
+**Name:** Kajal gangwar | **Roll No:** BCS2025547
 
 **Aim:** Make a bulleted list, a numbered list with a nested list, and a description list.
 
