@@ -1,7 +1,7 @@
 # Lab 10: CSS Fundamentals
 
 **Course:** BCS352, HTML and CSS Introduction Lab (Invertis University, Bareilly)
-**Name:** Priyanshi Sharma | **Roll No:** BCS2025582
+**Name:** Kajal gangwar | **Roll No:** BCS2025547
 
 **Aim:** Apply CSS in three ways (inline, internal and linked) and use selectors and text styles.
 
