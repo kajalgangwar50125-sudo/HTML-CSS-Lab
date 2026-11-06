@@ -3,7 +3,7 @@
 Lab assignments for **BCS352, HTML and CSS Introduction Lab**
 B.Tech CSE (Second Year), Invertis University, Bareilly
 
-**Name:** Priyanshi Sharma | **Roll No:** BCS2025582
+**Name:** Kajal gangwar | **Roll No:** BCS2025547
 
 ## Labs
 
