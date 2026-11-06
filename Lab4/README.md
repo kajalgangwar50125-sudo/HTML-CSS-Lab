@@ -1,7 +1,7 @@
 # Lab 4: Divs, Attributes and a Small Fix
 
 **Course:** BCS352, HTML and CSS Introduction Lab (Invertis University, Bareilly)
-**Name:** Priyanshi Sharma | **Roll No:** BCS2025582
+**Name:** Kajal gangwar | **Roll No:** BCS2025539
 
 **Aim:** Group parts of a page with div elements, add a data attribute, and fix the errors in a broken page.
 
