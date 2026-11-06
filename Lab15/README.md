@@ -1,7 +1,7 @@
 # Lab 15: Responsive Pages with Media Queries
 
 **Course:** BCS352, HTML and CSS Introduction Lab (Invertis University, Bareilly)
-**Name:** Kajal gangwar | **Roll No:** BCS2025539
+**Name:** Kajal gangwar | **Roll No:** BCS2025547
 
 **Aim:** Use a media query to change a layout, make a picture scale with its box, and set text sizes with rem units.
 
