@@ -1,7 +1,7 @@
 # Lab 5: Links and Images
 
 **Course:** BCS352, HTML and CSS Introduction Lab (Invertis University, Bareilly)
-**Name:** Priyanshi Sharma | **Roll No:** BCS2025582
+**Name:** Kajal | **Roll No:** BCS2025547
 
 **Aim:** Link two pages together and add a picture with alt text.
 
